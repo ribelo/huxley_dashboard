@@ -1,0 +1,16 @@
+{
+    "date_input_format": "%m.%d.%Y", 
+    "date_output": "d.m.Y", 
+    "datetime_format": "%d.%m.%Y %H:%M:%S", 
+    "delimiter": "tz", 
+    "interval": 60, 
+    "min_candles": 100000, 
+    "symbols": {
+        "EURUSD": 1, 
+        "USDCAD": 9, 
+        "USDCHF": 3
+    }, 
+    "system": "unix", 
+    "tor": false
+}
+

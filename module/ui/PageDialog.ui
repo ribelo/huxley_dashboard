@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>PageDialog</class>
+ <widget class="QDialog" name="PageDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>370</width>
+    <height>221</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>370</width>
+    <height>200</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>370</width>
+    <height>221</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>DataFeed Input</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="../../../resources/elementary/elementary.qrc">
+    <normaloff>:/actions/add-files-to-archive.svg</normaloff>:/actions/add-files-to-archive.svg</iconset>
+  </property>
+  <property name="sizeGripEnabled">
+   <bool>false</bool>
+  </property>
+  <property name="modal">
+   <bool>false</bool>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_2" columnstretch="0">
+   <property name="sizeConstraint">
+    <enum>QLayout::SetFixedSize</enum>
+   </property>
+   <item row="0" column="0">
+    <layout class="QGridLayout" name="gridLayout" rowstretch="0,0,0,0,0">
+     <item row="1" column="0">
+      <widget class="QLineEdit" name="cross_1">
+       <property name="text">
+        <string>Main_Symbol</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="0" colspan="3">
+      <layout class="QFormLayout" name="formLayout">
+       <property name="fieldGrowthPolicy">
+        <enum>QFormLayout::ExpandingFieldsGrow</enum>
+       </property>
+       <property name="formAlignment">
+        <set>Qt::AlignRight|Qt::AlignTop|Qt::AlignTrailing</set>
+       </property>
+       <property name="margin">
+        <number>6</number>
+       </property>
+       <item row="0" column="0">
+        <widget class="QPushButton" name="cancel_button">
+         <property name="minimumSize">
+          <size>
+           <width>100</width>
+           <height>0</height>
+          </size>
+         </property>
+         <property name="text">
+          <string>&amp;Cancel</string>
+         </property>
+         <property name="icon">
+          <iconset resource="../../../resources/elementary/elementary.qrc">
+           <normaloff>:/actions/gtk-cancel.svg</normaloff>:/actions/gtk-cancel.svg</iconset>
+         </property>
+        </widget>
+       </item>
+       <item row="0" column="1">
+        <widget class="QPushButton" name="ok_button">
+         <property name="minimumSize">
+          <size>
+           <width>100</width>
+           <height>0</height>
+          </size>
+         </property>
+         <property name="text">
+          <string>&amp;OK</string>
+         </property>
+         <property name="icon">
+          <iconset resource="../../../resources/elementary/elementary.qrc">
+           <normaloff>:/actions/dialog-apply.svg</normaloff>:/actions/dialog-apply.svg</iconset>
+         </property>
+         <property name="default">
+          <bool>false</bool>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item row="2" column="2">
+      <widget class="QPushButton" name="cross_2_button">
+       <property name="minimumSize">
+        <size>
+         <width>100</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="text">
+        <string>AddPath</string>
+       </property>
+       <property name="icon">
+        <iconset resource="../../../resources/elementary/elementary.qrc">
+         <normaloff>:/actions/document-new.svg</normaloff>:/actions/document-new.svg</iconset>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="0" colspan="3">
+      <widget class="QLineEdit" name="broker_name">
+       <property name="text">
+        <string>Broker_Name</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="2">
+      <widget class="QPushButton" name="cross_1_button">
+       <property name="minimumSize">
+        <size>
+         <width>100</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>100</width>
+         <height>100</height>
+        </size>
+       </property>
+       <property name="text">
+        <string>AddPath</string>
+       </property>
+       <property name="icon">
+        <iconset resource="../../../resources/elementary/elementary.qrc">
+         <normaloff>:/actions/document-new.svg</normaloff>:/actions/document-new.svg</iconset>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="2">
+      <widget class="QRadioButton" name="mirror_sister">
+       <property name="text">
+        <string>mirror</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0" rowspan="2">
+      <widget class="QLineEdit" name="cross_2">
+       <property name="text">
+        <string>Sister_Symbol</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="../../../resources/elementary/elementary.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>cancel_button</sender>
+   <signal>clicked()</signal>
+   <receiver>PageDialog</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>86</x>
+     <y>196</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>205</x>
+     <y>-14</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

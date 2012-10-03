@@ -1,0 +1,1549 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tim",
+				"timedelta  (class)"
+			],
+			[
+				"last",
+				"last_saved_time"
+			],
+			[
+				"str",
+				"strptime"
+			],
+			[
+				"can",
+				"candles_to_store"
+			],
+			[
+				"stored",
+				"stored_candles"
+			],
+			[
+				"csv",
+				"csv_writer"
+			],
+			[
+				"su",
+				"succesfull_downloaded"
+			],
+			[
+				"ut",
+				"utc_now"
+			],
+			[
+				"date",
+				"date_output_format"
+			],
+			[
+				"as",
+				"astimezone"
+			],
+			[
+				"mi",
+				"minute"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"BASE",
+				"BASEFILE"
+			],
+			[
+				"pa",
+				"path  (module)"
+			],
+			[
+				"fa",
+				"falling  (function)"
+			],
+			[
+				"reac",
+				"reaction_high"
+			],
+			[
+				"Candle",
+				"CandleException"
+			],
+			[
+				"Swin",
+				"bullSwingPoint1  (function)"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"clas",
+				"class	New Class"
+			],
+			[
+				"wi",
+				"withinRange"
+			],
+			[
+				"hi",
+				"high"
+			],
+			[
+				"body",
+				"bodySize"
+			],
+			[
+				"size",
+				"bodySize  (function)"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"cass",
+				"classmethod"
+			],
+			[
+				"la",
+				"last_time"
+			],
+			[
+				"r",
+				"reverse"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"fie",
+				"file_path"
+			],
+			[
+				"tz",
+				"tzinfo"
+			],
+			[
+				"up",
+				"updateTable  (function)"
+			],
+			[
+				"rea",
+				"reader"
+			],
+			[
+				"bearStrongContinuation",
+				"bearStrongContinuation2  (function)"
+			],
+			[
+				"bears",
+				"bearStrongContinuation2"
+			],
+			[
+				"bullst",
+				"bullStrongContinuation2  (function)"
+			],
+			[
+				"bu",
+				"bullHG"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"ris",
+				"rising"
+			],
+			[
+				"brea",
+				"breakOut  (function)"
+			],
+			[
+				"risin",
+				"rising_count"
+			],
+			[
+				"bearSwing",
+				"bearSwingPoint2  (function)"
+			],
+			[
+				"bear",
+				"bearHG"
+			],
+			[
+				"ra",
+				"raction_high"
+			],
+			[
+				"max",
+				"maxIndex"
+			],
+			[
+				"bul",
+				"bullWRB"
+			],
+			[
+				"big",
+				"bigBody  (function)"
+			],
+			[
+				"ber",
+				"bearWRB  (function)"
+			],
+			[
+				"dat",
+				"datetime  (class)"
+			],
+			[
+				"writ",
+				"write_row"
+			],
+			[
+				"valid",
+				"validIndex"
+			],
+			[
+				"candl",
+				"candles"
+			],
+			[
+				"main",
+				"main_loop"
+			],
+			[
+				"set",
+				"setWindowModality"
+			],
+			[
+				"setW",
+				"setWindowTitle"
+			],
+			[
+				"Downlo",
+				"DownloadDataThread"
+			],
+			[
+				"time",
+				"time_tuple"
+			],
+			[
+				"cr",
+				"cross_1"
+			],
+			[
+				"broke",
+				"broker_name"
+			],
+			[
+				"max_",
+				"max_candles"
+			],
+			[
+				"iBullH",
+				"iBullHG"
+			],
+			[
+				"ihigh",
+				"iHigh"
+			],
+			[
+				"iBu",
+				"iBullHG"
+			],
+			[
+				"iBe",
+				"iBearHG"
+			],
+			[
+				"iBull",
+				"iBullWRB"
+			],
+			[
+				"ih",
+				"iHigh"
+			],
+			[
+				"b",
+				"broker"
+			],
+			[
+				"w",
+				"writelines  (function)"
+			],
+			[
+				"candle",
+				"candle_count"
+			],
+			[
+				"ca",
+				"candles"
+			],
+			[
+				"iHi",
+				"iHigh"
+			],
+			[
+				"f",
+				"fabs"
+			],
+			[
+				"iH",
+				"iHigh"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"cross",
+				"cross"
+			],
+			[
+				"tmp",
+				"tmp_corss_2"
+			],
+			[
+				"c",
+				"cross_1"
+			],
+			[
+				"cro",
+				"cross_2"
+			],
+			[
+				"cros",
+				"cross_2"
+			],
+			[
+				"db",
+				"db_path"
+			],
+			[
+				"p",
+				"parrent"
+			],
+			[
+				"VTR",
+				"VTR_1"
+			],
+			[
+				"tabl",
+				"tables"
+			],
+			[
+				"APP",
+				"AppWindow"
+			],
+			[
+				"QTr",
+				"QTreeWidgetItem"
+			],
+			[
+				"q",
+				"QWidget"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"ad",
+				"addWidget"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"se",
+				"settings"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "huxley_dashboard.py",
+			"settings":
+			{
+				"buffer_size": 704,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "module/app_window.py",
+			"settings":
+			{
+				"buffer_size": 9034,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "module/dukascopy.py",
+			"settings":
+			{
+				"buffer_size": 7726,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "module/dependencies.py",
+			"settings":
+			{
+				"buffer_size": 322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "module/settings.py",
+			"settings":
+			{
+				"buffer_size": 809,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 132.0,
+		"selected_items":
+		[
+			[
+				"error",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"show",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sho",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"err",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"rese",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"rope",
+				"Rope Refactoring: Extract Method"
+			],
+			[
+				"codein",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"reset",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"res",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"rest",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sublimecode",
+				"SublimeCodeIntel: Enable Live Autocompletion"
+			],
+			[
+				"sublime",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Enable Live Autocompletion"
+			],
+			[
+				"codeinte",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"intel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: While Loop"
+			],
+			[
+				"DISC",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"cod",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"disal",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				" ",
+				"Set Syntax: Python"
+			],
+			[
+				"tog",
+				"View: Toggle Status Bar"
+			],
+			[
+				"",
+				"View: Toggle Status Bar"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/huxley/Dropbox/FXCM MetaTrader 4/experts/Your semi-auto trading robot by Ribelo.mq4",
+		"/home/huxley/Dropbox/Huxley Dashboard/module/config.wrb",
+		"/home/huxley/Dropbox/Huxley Dashboard/module/dukascopy.cfg",
+		"/home/huxley/.gvfs/dane na debian/Poczta wewn/R.K/All/app.py",
+		"/home/huxley/Pobrane/Close and Reverse.mq4",
+		"/home/huxley/Pobrane/ezMM - Close and Reverse.1.mq4",
+		"/home/huxley/Pobrane/Ribelo_II_SupDem.mq4",
+		"/home/huxley/Dropbox/Huxley Dashboard/module/settings.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/ui/Table_ui.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/module/forex.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/module/dukascopy.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/AppWindow.py",
+		"/home/huxley/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/huxley/.cache/.fr-AMhKoN/autokey-0.90.4/src/test/phrasetest.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/ui/PageDialog_ui.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/ui/Preferences_ui.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/ui/MainWindow_ui.py",
+		"/home/huxley/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/huxley/Dropbox/Huxley Dashboard/forex.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/dukascopy.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/Preferences_ui.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/module/MainWindow_ui.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/module/__init__.py",
+		"/home/huxley/Dropbox/FXCM MetaTrader 4/experts/Your semi-auto trading robot by Ribelo (huxley-netbook's conflicted copy 2012-09-20).mq4",
+		"/home/huxley/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/huxley/Dropbox/Huxley Dashboard/PageDialog_ui.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/ui/test_ui.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/wrb.cfg",
+		"/home/huxley/Pobrane/Plot External Data.mq4",
+		"/home/huxley/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+		"/home/huxley/.config/sublime-text-2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/home/huxley/.config/sublime-text-2/Packages/DetectSyntax/DetectSyntax.sublime-settings",
+		"/home/huxley/Dropbox/FXCM MetaTrader 4/experts/indicators/Ribelo PushMeter!.mq4",
+		"/home/huxley/Dropbox/FXCM MetaTrader 4/experts/indicators/Ribelo Power Volume.mq4",
+		"/home/huxley/.gvfs/dane na debian/Poczta wewn/R.K/Magazyn/magazyn.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/test.py",
+		"/home/huxley/.config/sublime-text-2/Packages/Python/Python3.tmLanguage",
+		"/home/huxley/.config/sublime-text-2/Packages/Python/Python3.tmLanguage.cache",
+		"/home/huxley/Dropbox/Huxley Dashboard/main_loop.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/wrb_analysis.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/MainWindow_ui.py",
+		"/home/huxley/Dropbox/Huxley Dashboard/preferences.py",
+		"/usr/lib/python3.2/site-packages/socks.py",
+		"/tmp/yaourt-tmp-huxley/aur-python2-socksipy-branch/PKGBUILD",
+		"/usr/lib/python3.2/_strptime.py",
+		"/home/huxley/Dropbox/FXCM MetaTrader 4/experts/semi-auto scalping robot by ribelo_lite.mq4",
+		"/etc/pulse/default.pa",
+		"/home/huxley/Pobrane/forex.py",
+		"/home/huxley/.config/sublime-text-2/Packages/User/AddColon.sublime-macro",
+		"/home/huxley/Dropbox/Huxley Dashboard/DukasInput_ui.py",
+		"/home/huxley/Dropbox/FXCM MetaTrader 4/experts/semi-auto scalping robot by Ribelo.mq4",
+		"/home/huxley/.config/sublime-text-2/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+		"/home/huxley/.config/sublime-text-2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/huxley/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/huxley/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/huxley/Dropbox/Huxley Dashboard/forex",
+		"/home/huxley/Dropbox/Huxley Dashboard/hs_dashboard.sublime-project",
+		"/home/huxley/Dropbox/workspace/cdw/src/AppWindow.py",
+		"/home/huxley/Dropbox/workspace/cdw/src/forex.py",
+		"/home/huxley/Dropbox/workspace/cdw/src/wrb_analysis.py",
+		"/home/huxley/Dropbox/workspace/cdw/src/untitled.sublime-project",
+		"/home/huxley/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+		"/home/huxley/Dropbox/FXCM MetaTrader 4/experts/include/wrb_analysis.mqh",
+		"/home/huxley/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-mousemap",
+		"/home/huxley/Dropbox/FXCM MetaTrader 4/experts/include/riblib.mqh",
+		"/home/huxley/Dropbox/workspace/cdw/src/datafeed.py",
+		"/home/huxley/Dropbox/workspace/cdw/src/thread",
+		"/home/huxley/Dropbox/workspace/cdw/src/PageDialog_ui.py",
+		"/home/huxley/Dropbox/workspace/cdw/src/preferences.py",
+		"/home/huxley/.cache/.fr-akts2b/timers/run.py",
+		"/home/huxley/Dropbox/workspace/cdw/src/test",
+		"/home/huxley/Dropbox/workspace/cdw/src/UI.py",
+		"/home/huxley/Dropbox/workspace/cdw/src/exec.py",
+		"/home/huxley/.cache/.fr-KTlFXl/timers/timer.py",
+		"/home/huxley/Dropbox/workspace/cdw/src/ui/Table_ui.py",
+		"/home/huxley/Dropbox/workspace/cdw/src/ui/test_ui.py",
+		"/home/huxley/Dropbox/workspace/cdw/src/Preferences_ui.py",
+		"/home/huxley/Dropbox/workspace/cdw/src/Table_ui.py",
+		"/home/huxley/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/huxley/.config/sublime-text-2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+		"/home/huxley/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/huxley/.config/sublime-text-2/Packages/SideBarEnhancements/blabla",
+		"/home/huxley/.config/sublime-text-2/Packages/Pep8Lint/Pep8Lint.sublime-settings",
+		"/home/huxley/.config/sublime-text-2/Packages/Pep8Lint/Default (Linux).sublime-keymap",
+		"/home/huxley/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/huxley/.config/sublime-text-2/Packages/User/Python.sublime-settings",
+		"/home/huxley/.config/sublime-text-2/Packages/Alignment/Base File.sublime-settings",
+		"/home/huxley/.config/sublime-text-2/Packages/User/python3.sublime-build"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"volume",
+			"close",
+			"low",
+			"high",
+			"open",
+			"stored_candles",
+			"date_input_format",
+			"date_input",
+			"date_output_format",
+			"succesfull_download",
+			"count",
+			"cetnow",
+			"utcnow",
+			"file_path",
+			"ticket",
+			"true",
+			"validateIndex",
+			"CandleException",
+			"print",
+			"wbr",
+			"Settings.dict",
+			"options",
+			"dict",
+			"options",
+			"Candle.db[broker][symbol]['signal']",
+			"wbr_size",
+			"timer",
+			"load_form_file",
+			"self.settings",
+			"self",
+			"self.settings",
+			"self",
+			"timeframe",
+			"no",
+			"falling",
+			"print",
+			"raction_low",
+			"raction_high",
+			"raction_low",
+			"raction_high",
+			"bodySize",
+			"main_lo",
+			"fallign",
+			"x",
+			"y)",
+			"y",
+			"bull",
+			"bullSwingPoint1",
+			"WRB",
+			"bullHG",
+			"[]",
+			"now",
+			"cls",
+			"engulfing",
+			"c2",
+			"v1",
+			"bullWRB",
+			"falling",
+			"(.).*?(C).*?",
+			"rising",
+			"bullWRB",
+			"cls",
+			"classmethod",
+			"def",
+			"db",
+			"self.db",
+			"db",
+			"self",
+			"classmethod",
+			"    @",
+			"def",
+			"settings",
+			"f_time",
+			"ftime",
+			"print",
+			"signals",
+			"preferences",
+			"self.tables",
+			"datafeed",
+			"HxScDashboard",
+			"tor",
+			"timer",
+			"self.db",
+			"self",
+			"AppWindow",
+			"cp1250",
+			"wrb",
+			"low",
+			"bull",
+			"body",
+			"rising",
+			"rising_count",
+			"range(v1 - 1, v1 - 3)",
+			"mode",
+			"forward",
+			"high",
+			"WRB",
+			"date",
+			"'%Y-%m-%d %H:%M:%S'",
+			"print",
+			"maxIndex",
+			"self.max_no",
+			"validIndex",
+			"stop = max([start + count, self.max_no])",
+			"stop = start + count",
+			"lc",
+			"hc",
+			"db",
+			"print",
+			"iOpen",
+			"iFilled",
+			"iShare",
+			"iLow",
+			"iOverlap",
+			"iHigh",
+			"iClose",
+			"iOverlap",
+			"falign",
+			"iFalling",
+			"iBullSwingPoint1",
+			"iBearHG",
+			"iBearWRB",
+			"iBullHG",
+			"addPage",
+			"iBullWRB",
+			"iBreakOut",
+			"high",
+			"break"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Settings.options",
+			"WRB.db",
+			"Settings.options",
+			"cls.settings",
+			"utcnow",
+			"no",
+			"Candle.db",
+			"tables",
+			"HxSDashboard",
+			"range(v1 - 1, v1 - 3, -1)",
+			"maxIndex(broker, symbol)",
+			"stop = min([start + count, self.max_no])",
+			"stop = max([start + count, self.max_no])",
+			"self.rising",
+			"self.smallest",
+			"self.smallBar",
+			"self.smallBody",
+			"self.bigBar",
+			"self.bigBody",
+			"self.biggest",
+			"self.pointX",
+			"self.barSize",
+			"self.bodySize",
+			"self.vol",
+			"self.close",
+			"self.low",
+			"self.high",
+			"self.open",
+			"db",
+			"wrb_app",
+			"db",
+			"main_app",
+			")",
+			"(",
+			")",
+			"("
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "huxley_dashboard.py",
+					"settings":
+					{
+						"buffer_size": 704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								491,
+								491
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "module/app_window.py",
+					"settings":
+					{
+						"buffer_size": 9034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "module/dukascopy.py",
+					"settings":
+					{
+						"buffer_size": 7726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7693,
+								7693
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2250.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "module/dependencies.py",
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							],
+							[
+								63,
+								63
+							],
+							[
+								64,
+								64
+							],
+							[
+								79,
+								79
+							],
+							[
+								80,
+								80
+							],
+							[
+								82,
+								82
+							],
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "module/settings.py",
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 139.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"/home/huxley/Dropbox/workspace/cdw/src/AppWindow.py"
+			],
+			[
+				"",
+				"/home/huxley/Dropbox/workspace/cdw/src/preferences.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}
